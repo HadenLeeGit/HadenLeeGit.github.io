@@ -52,7 +52,7 @@ h2 {
   position: relative;
 }
  
-.iframe-container iframe {
+.frame-container iframe {
    border: 0;
    height: 100%;
    left: 0;

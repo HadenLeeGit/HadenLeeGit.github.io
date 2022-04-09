@@ -37,32 +37,12 @@ h1 {
 
 h2 {
   font-family: Poppins;
-  font-size: 24px;
+  font-size: 18px;
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
   color: #6593f5;
   padding: 10px 0px 10px 10px;
-}
-
-.iframe-container {
-  overflow: hidden;
-  padding-top: 56.25%;
-  width: 100%;
-  position: relative;
-}
- 
-.iframe-container iframe {
-   border: 0;
-   height: 100%;
-   left: 0;
-   position: absolute;
-   top: 0;
-   width: 100%;
-}
-
-a {
-  text-decoration: none;
 }
 
 img {
@@ -144,7 +124,7 @@ font-family: 'Work Sans';
 
 .description {
   font-family: Work Sans;
-  font-size: 18px;
+  font-size: 14px;
   font-weight: 300;
   line-height: 1.29;
   letter-spacing: 0.1px;
