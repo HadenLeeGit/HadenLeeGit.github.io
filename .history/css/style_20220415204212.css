@@ -70,9 +70,7 @@ a {
   color: #6593f5;
 }
 
-a:hover {
-  color: #4364ac;
-}
+a
 
 img {
   width: 100%;

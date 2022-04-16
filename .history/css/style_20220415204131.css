@@ -67,11 +67,6 @@ h2 {
 
 a {
   text-decoration: none;
-  color: #6593f5;
-}
-
-a:hover {
-  color: #4364ac;
 }
 
 img {
@@ -126,6 +121,11 @@ font-family: 'Hind', sans-serif;
 }
 
 .a {
+  color: #6593f5;
+}
+
+.a:hover {
+  color: #f00d0d;
 }
 
 .c {
