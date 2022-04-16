@@ -103,6 +103,10 @@ font-family: 'Hind', sans-serif;
   padding: 16px 31px;
   text-decoration: none;
   margin: 1.69em auto;
+  -webkit-transition: all .5s; 
+  -moz-transition: all .5s; 
+  -ms-transition: all .5s; 
+  -o-transition: all .5s; 
   transition: all .5s;
 }
 
@@ -166,6 +170,7 @@ font-family: 'Hind', sans-serif;
   vertical-align: middle;
   object-fit: contain;
   padding: 20px;
+
 }
 
 .container {

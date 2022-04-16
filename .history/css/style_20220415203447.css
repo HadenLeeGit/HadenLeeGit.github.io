@@ -166,6 +166,11 @@ font-family: 'Hind', sans-serif;
   vertical-align: middle;
   object-fit: contain;
   padding: 20px;
+
+}
+
+.logo:hover {
+  background-color: rgba(0,0,0,.25);
 }
 
 .container {

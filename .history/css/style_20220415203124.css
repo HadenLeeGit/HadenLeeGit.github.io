@@ -103,7 +103,14 @@ font-family: 'Hind', sans-serif;
   padding: 16px 31px;
   text-decoration: none;
   margin: 1.69em auto;
-  transition: all .5s;
+  -webkit-transition: all .5s; 
+                -moz-transition: all .5s; 
+                -ms-transition: all .5s; 
+                -o-transition: all .5s; 
+                transition: all .5s;
+————————————————
+版权声明：本文为CSDN博主「李逸风」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/sheng_li/article/details/75004017
 }
 
 .myButton:hover {
@@ -166,6 +173,7 @@ font-family: 'Hind', sans-serif;
   vertical-align: middle;
   object-fit: contain;
   padding: 20px;
+
 }
 
 .container {

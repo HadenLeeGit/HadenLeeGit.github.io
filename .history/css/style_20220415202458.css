@@ -29,18 +29,17 @@ main {
 
 h1 {
   font-family: 'Expletus Sans', cursive;
-  font-size: calc(4em + 3vw);
-  padding-bottom: .2em;
+  font-size: calc(1em + 3vw);
+  padding-bottom: .67em;
   border-bottom: 1px solid;
-  line-height: 1.2;
+  line-height: 1.3;
 }
 
 h2 {
   font-family: 'Expletus Sans', cursive;
-  font-size: 24px;
-  font-weight: 600;
+  font-size: 26px;
   letter-spacing: 0.3px;
-  text-align: center;
+  text-align: left;
   color: #6593f5;
   padding: 10px 0px 10px 10px;
 }
@@ -103,7 +102,6 @@ font-family: 'Hind', sans-serif;
   padding: 16px 31px;
   text-decoration: none;
   margin: 1.69em auto;
-  transition: all .5s;
 }
 
 .myButton:hover {
@@ -166,6 +164,7 @@ font-family: 'Hind', sans-serif;
   vertical-align: middle;
   object-fit: contain;
   padding: 20px;
+
 }
 
 .container {

@@ -103,7 +103,7 @@ font-family: 'Hind', sans-serif;
   padding: 16px 31px;
   text-decoration: none;
   margin: 1.69em auto;
-  transition: all .5s;
+ 
 }
 
 .myButton:hover {
@@ -166,6 +166,7 @@ font-family: 'Hind', sans-serif;
   vertical-align: middle;
   object-fit: contain;
   padding: 20px;
+
 }
 
 .container {
