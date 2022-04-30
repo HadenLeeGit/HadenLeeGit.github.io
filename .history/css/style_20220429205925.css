@@ -178,13 +178,15 @@ font-family: 'Hind', sans-serif;
     margin: auto;
   }
 
+
 footer div {
   height: 100%;
   font-family: 'Raleway', sans-serif;
   font-size: 14px;
-  display: block;
+  display: flex;
   align-content: center;
-  padding: 10px 20px;
+  text-align: center;
+  padding: 10px 40px;
   color: rgba(255, 255, 255, 0.8);
 }
 
