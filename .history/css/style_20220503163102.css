@@ -121,10 +121,11 @@ font-family: 'Hind', sans-serif;
     top:1px;
 }
 
-.project {
-  box-shadow: 0 0px 1px 0 rgb(0 0 0 / 50%);  
+.recipe {
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.5);
   width: 100%;
 }
+
 
 .description {
   font-family: 'Hind', sans-serif;
@@ -136,7 +137,6 @@ font-family: 'Hind', sans-serif;
   color: #4a4a4a;
   padding: 10px 0px 10px 10px;
   border-top: 1px solid #4a4a4a;
-  padding: 0 20px 20px 20px;  
 }
 
 .logo {
