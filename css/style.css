@@ -3,7 +3,7 @@ body {
 }
 
 header, footer {
-  background-color: #6593f5;
+  background-color: #0F0F0F ;
   text-align: left;
 /*  min-width: 500px; */
 }
@@ -75,22 +75,23 @@ a:hover {
 }
 
 img {
-  width: 100%;
+  width: 35%;
   height: 50vh;
-  object-fit: cover;
-  object-position: center top
+  object-fit: contain;
+  object-position: center center
 }
 
 .wrapper {
   max-width: 1150px;
-  margin: auto;
+  margin: 0 auto;
+  text-align:center;
   padding: 50px;
   display: block;
 }
 
 .bio {
-color: #ffffff;
-font-size: 24px;
+color: #cccccc;
+font-size: 18px;
 font-family: 'Hind', sans-serif;
 }
 
